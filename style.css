@@ -1,0 +1,25 @@
+P{
+    text-align: center;
+}
+body {
+    background: #CBFED4;
+    font-size: 20px;
+}
+h1 {text-align: center;
+background: #FAF417;
+}
+
+b{
+    color: blue;
+}
+
+
+h1{font-size: 40px;color: aqua;}
+p{
+    color: rgb(7, 134, 189);
+}
+i{
+    font-size: 45px;
+    color: #F4A7FC;
+    
+}
