@@ -2,11 +2,11 @@ P{
     text-align: center;
 }
 body {
-    background: #CBFED4;
+    background: #e2970c;
     font-size: 20px;
 }
 h1 {text-align: center;
-background: #FAF417;
+background: #dbd360;
 }
 
 b{
@@ -14,12 +14,12 @@ b{
 }
 
 
-h1{font-size: 40px;color: aqua;}
+h1{font-size: 40px;color: rgb(10, 12, 12);}
 p{
     color: rgb(7, 134, 189);
 }
 i{
     font-size: 45px;
     color: #F4A7FC;
-    
+
 }
